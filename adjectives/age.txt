@@ -5,6 +5,7 @@ antique
 archaic
 contemporary
 current
+elder
 frayed
 fresh
 grizzled
