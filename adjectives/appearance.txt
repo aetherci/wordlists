@@ -84,3 +84,4 @@ clear-eyed
 cloven-footed
 cloven-hoofed
 cockeyed
+coarse-grained
